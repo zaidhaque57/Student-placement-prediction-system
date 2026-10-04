@@ -1,0 +1,11 @@
+__pycache__/
+*.__pycache__
+.venu/
+env/
+
+*.pkl
+
+.DS_Store
+
+.vscode/
+.idea/
