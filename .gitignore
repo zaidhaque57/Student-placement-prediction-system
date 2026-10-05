@@ -3,7 +3,7 @@ __pycache__/
 .venu/
 env/
 
-*.pkl
+# *.pkl
 
 .DS_Store
 
